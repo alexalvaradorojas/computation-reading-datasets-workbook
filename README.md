@@ -44,6 +44,6 @@ We will be using various computational, analytical, and literary resources to in
 
 ## **License:**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/alexalvaradorojas/computation-reading-datasets-workbook/blob/main/DH_2021_Notebook_Workshop.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alexalvaradorojas/computation-reading-datasets-workbook/blob/main/DH_2021_Notebook_Workshop.ipynb)
 
 
